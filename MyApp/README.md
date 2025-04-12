@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏋️ Hypertro - Fitness Workout Tracker App
 
 **Hypertro** is a modern fitness tracking application built with React Native and Firebase.  
@@ -62,6 +61,3 @@ git clone https://github.com/YOUR-USERNAME/Hypertro.git
 cd Hypertro
 npm install
 npx expo start
-=======
-
->>>>>>> 07da432cb69b00ebe3d1858914a496b44942c161
