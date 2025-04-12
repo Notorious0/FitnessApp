@@ -14,21 +14,28 @@ Watch the full demo on YouTube:
 
 ## 📸 Screenshots
 
-| Muscle Group Selection | Exercise List | Workout Builder |
-|------------------------|---------------|-----------------|
-| ![](./MyApp/assets/screenshots/Selection.jpg) | ![](./MyApp/assets/screenshots/Move.jpg) | ![](./MyApp/assets/screenshots/Superset.jpg) |
-
-| Workout Detail | Folder System | Workout Overview |
-|----------------|---------------|------------------|
-| ![](./MyApp/assets/screenshots/Detail.jpg) | ![](./MyApp/assets/screenshots/Folder.jpg) | ![](./MyApp/assets/screenshots/Workout.jpg) |
-
-| Profile Page | Info Page | Login / Register |
-|-------------|-----------|------------------|
-| ![](./MyApp/assets/screenshots/Profile.jpg) | ![](./MyApp/assets/screenshots/Info.jpg) | ![](./MyApp/assets/screenshots/Login.jpg) ![](./MyApp/assets/screenshots/Register.jpg) |
-
-| BMI Calculator |
-|----------------|
-| ![](./MyApp/assets/screenshots/BMI.jpg) |
+<table>
+  <tr>
+    <td align="center"><strong>Muscle Group Selection</strong><br><img src="./MyApp/assets/screenshots/Selection.jpg" width="250"/></td>
+    <td align="center"><strong>Exercise List</strong><br><img src="./MyApp/assets/screenshots/Move.jpg" width="250"/></td>
+    <td align="center"><strong>Workout Builder</strong><br><img src="./MyApp/assets/screenshots/Superset.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Workout Detail</strong><br><img src="./MyApp/assets/screenshots/Detail.jpg" width="250"/></td>
+    <td align="center"><strong>Folder System</strong><br><img src="./MyApp/assets/screenshots/Folder.jpg" width="250"/></td>
+    <td align="center"><strong>Workout Overview</strong><br><img src="./MyApp/assets/screenshots/Workout.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Profile Page</strong><br><img src="./MyApp/assets/screenshots/Profile.jpg" width="250"/></td>
+    <td align="center"><strong>Info Page</strong><br><img src="./MyApp/assets/screenshots/Info.jpg" width="250"/></td>
+    <td align="center"><strong>BMI Calculator</strong><br><img src="./MyApp/assets/screenshots/BMI.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Login</strong><br><img src="./MyApp/assets/screenshots/Login.jpg" width="150"/></td>
+    <td align="center"><strong>Register</strong><br><img src="./MyApp/assets/screenshots/Register.jpg" width="150"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
