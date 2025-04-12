@@ -1,0 +1,42 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# -----------------------------
+# ✅ Dependencies
+node_modules/
+*.tsbuildinfo
+
+# ✅ Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# ✅ React Native + Metro
+.metro-cache/
+.metro-health-check*
+*.orig.*
+
+# ✅ Native Signing / Keys
+*.jks
+*.p8
+*.p12
+*.key
+*.pem
+*.mobileprovision
+
+# ✅ Logs / Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# ✅ macOS / VSCode / System Files
+.DS_Store
+.vscode/
+
+# ✅ Env / Secrets
+.env
+.env*.local
+firebaseConfig.tsx
+
+# typescript
+*.tsbuildinfo
