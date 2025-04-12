@@ -16,7 +16,7 @@ Watch the full demo on YouTube:
 
 | Muscle Group Selection | Exercise List | Workout Builder |
 |------------------------|---------------|-----------------|
-| ![](./MyApp/assets/screenshots/Part.jpg) | ![](./MyApp/assets/screenshots/Move.jpg) | ![](./MyApp/assets/screenshots/Superset.jpg) |
+| ![](./MyApp/assets/screenshots/Selection.jpg) | ![](./MyApp/assets/screenshots/Move.jpg) | ![](./MyApp/assets/screenshots/Superset.jpg) |
 
 | Workout Detail | Folder System | Workout Overview |
 |----------------|---------------|------------------|
@@ -25,6 +25,10 @@ Watch the full demo on YouTube:
 | Profile Page | Info Page | Login / Register |
 |-------------|-----------|------------------|
 | ![](./MyApp/assets/screenshots/Profile.jpg) | ![](./MyApp/assets/screenshots/Info.jpg) | ![](./MyApp/assets/screenshots/Login.jpg) ![](./MyApp/assets/screenshots/Register.jpg) |
+
+| BMI Calculator |
+|----------------|
+| ![](./MyApp/assets/screenshots/BMI.jpg) |
 
 ---
 
