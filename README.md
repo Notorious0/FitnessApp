@@ -68,7 +68,7 @@ Watch the full demo on YouTube:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Hypertro.git
+git clone 
 cd Hypertro
 npm install
 npx expo start
