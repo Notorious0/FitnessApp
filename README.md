@@ -53,7 +53,7 @@ Watch the full demo on YouTube:
 - 🔐 Firebase Auth (Email & Google Sign-In)
 - 🌗 Responsive and Dark-themed UI (Expo + TypeScript)
 
----
+---0
 
 ## ⚙️ Tech Stack
 
