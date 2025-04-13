@@ -40,3 +40,7 @@ firebaseConfig.tsx
 
 # typescript
 *.tsbuildinfo
+
+firebaseConfig.ts
+firebaseConfig.js
+
